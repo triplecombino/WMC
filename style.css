@@ -7,39 +7,4 @@
             margin: 0;
             padding: 20px;
         }
-
-        .recipe-card {
-            max-width: 800px;
-            margin: 0 auto;
-            background: var(--card-bg);
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-        }
-
-        .recipe-hero {
-            position: relative;
-            height: 300px;
-            background-color: #ddd;
-        }
-
-        .recipe-hero img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
-
-        .recipe-header {
-            padding: 25px 30px 10px;
-        }
-
-        .recipe-header h1 {
-            margin: 0 0 10px 0;
-            color: #2c3e50;
-        }
-
-        .recipe-description {
-            font-style: italic;
-            color: #666;
-            margin-bottom: 20px;
-        }
+        
